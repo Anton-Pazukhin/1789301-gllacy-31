@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Антон Пазухин](https://up.htmlacademy.ru/htmlcss/31/user/1789301).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Дроганов] https://htmlacademy.ru/profile/dmdragon.
 
 ---
 
